@@ -8,7 +8,9 @@ The dataset, provided by the **WHO/UNICEF Joint Monitoring Programme (JMP)**, co
 ---
 
 ## 📊 Data Description
-- **Source:** WHO/UNICEF JMP – Global Estimates on the Use of Water (2000–2020, 2020 snapshot)  
+- **Sources:**
+    - Estimates of the use of water (2000-2020).csv
+    - Regions.csv 
 - **Format:** CSV files imported and processed in Google Sheets  
 - **Deliverable:** <a href="https://docs.google.com/spreadsheets/d/12iigZr-Ib51FirMBhE6JaIyrjY7ZEcZtcVlF6AwEbJE/edit?usp=sharing" target="_blank">Final Google Sheets File</a> 
 
